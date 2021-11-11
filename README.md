@@ -12,4 +12,7 @@ Paper link: [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114)
 
 paper link: [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661)
 
+### 🪐Residual Neural Network (ResNet)
+
+paper link: [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
 
