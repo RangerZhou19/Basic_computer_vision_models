@@ -16,3 +16,7 @@ paper link: [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661)
 
 paper link: [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
 
+### 🎮Densely Connected Convolutional Networks (DenseNet)
+
+paper link: [Densely Connected Convolutional Networks](https://arxiv.org/abs/1608.06993)
+
