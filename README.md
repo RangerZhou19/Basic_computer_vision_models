@@ -4,6 +4,6 @@
 
 Models include: VAE GAN VGG Resnet Densenet inceptionV3 YOLO RCNN GoogleNet imageNet
 
-### Variational AutoEncoder (VAE)
+### 🚩Variational AutoEncoder (VAE)
 
 Paper link: 
