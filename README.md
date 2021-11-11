@@ -9,3 +9,4 @@ Models include: VAE GAN VGG Resnet Densenet inceptionV3 YOLO RCNN GoogleNet imag
 Paper link: [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114)
 
 ### 🕶Generative Adversarial Network (GAN)
+paper
