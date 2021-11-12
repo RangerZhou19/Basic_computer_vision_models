@@ -6,9 +6,9 @@ Models include: VAE GAN VGG Resnet Densenet inceptionV3 YOLO Fast_R-CNN GoogleNe
 
 ### 🚀Transformer 
 
-The raw paper: [Attention is all you need](https://arxiv.org/abs/1706.03762)
+The raw paper: [Attention is All You Need](https://arxiv.org/abs/1706.03762)
 
-
+The first paper which applied transformer in computer vision: [End-to-End Object Detection with Transformers](https://arxiv.org/abs/2005.12872) EECV 2020
 
 ### 👓Variational AutoEncoder (VAE)
 
