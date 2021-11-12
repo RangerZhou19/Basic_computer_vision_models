@@ -23,3 +23,7 @@ paper link: [Densely Connected Convolutional Networks](https://arxiv.org/abs/160
 ### 🎖InceptionV3
 
 paper link: [Going Deeper with convolutions](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43022.pdf)
+
+### 🏆YOLO
+
+paper link: [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640)
