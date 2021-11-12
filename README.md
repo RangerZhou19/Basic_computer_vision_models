@@ -2,7 +2,13 @@
 
 ## This is the repository of different basic computer vision models
 
-Models include: VAE GAN VGG Resnet Densenet inceptionV3 YOLO Fast_R-CNN GoogleNet imageNet
+Models include: VAE GAN VGG Resnet Densenet inceptionV3 YOLO Fast_R-CNN GoogleNet Transformer
+
+### 🚀Transformer 
+
+The raw paper: [Attention is all you need](https://arxiv.org/abs/1706.03762)
+
+
 
 ### 👓Variational AutoEncoder (VAE)
 
@@ -31,6 +37,10 @@ paper link: [You Only Look Once: Unified, Real-Time Object Detection](https://ar
 ### 🛰Fast R-CNN
 
 paper link: [Fast R-CNN](https://arxiv.org/pdf/1504.08083.pdf)
+
+### 🚄GoogleNet
+
+paper link: [Going Deeper with Convolutions](https://arxiv.org/abs/1409.4842)
 
 
 
