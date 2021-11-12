@@ -2,7 +2,7 @@
 
 ## This is the repository of different basic computer vision models
 
-Models include: VAE GAN VGG Resnet Densenet inceptionV3 YOLO RCNN GoogleNet imageNet
+Models include: VAE GAN VGG Resnet Densenet inceptionV3 YOLO Fast_R-CNN GoogleNet imageNet
 
 ### 👓Variational AutoEncoder (VAE)
 
@@ -27,3 +27,13 @@ paper link: [Going Deeper with convolutions](https://static.googleusercontent.co
 ### 🏆YOLO
 
 paper link: [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640)
+
+### 🛰Fast R-CNN
+
+paper link: [Fast R-CNN](https://arxiv.org/pdf/1504.08083.pdf)
+
+
+
+
+
+
