@@ -10,7 +10,7 @@ The raw paper: [Attention is All You Need](https://arxiv.org/abs/1706.03762)
 
 Transformer+Detection: the first paper which applied transformer in computer vision: [End-to-End Object Detection with Transformers](https://arxiv.org/abs/2005.12872) EECV 2020 
 
-
+Transformer+Detetction: 可变形的Transformers, Deformable DETR: [Deformable DETR](https://arxiv.org/pdf/2010.04159.pdf)
 
 
 ### 👓Variational AutoEncoder (VAE)
