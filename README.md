@@ -20,4 +20,6 @@ paper link: [Deep Residual Learning for Image Recognition](https://arxiv.org/abs
 
 paper link: [Densely Connected Convolutional Networks](https://arxiv.org/abs/1608.06993)
 
-### 
+### 🎖InceptionV3
+
+paper link: [Going Deeper with convolutions](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43022.pdf)
