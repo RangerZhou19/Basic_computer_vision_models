@@ -19,35 +19,35 @@ Transformer+Detetction: 可变形的Transformers, Deformable DETR: [Deformable D
 
 Paper link: [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114)
 
-### 🕶Generative Adversarial Network (GAN)
+### 3 Generative Adversarial Network (GAN)🕶
 
 paper link: [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661)
 
-### 3 Residual Neural Network (ResNet)🪐
+### 4 Residual Neural Network (ResNet)🪐
 
 paper link: [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
 
-### 4 Densely Connected Convolutional Networks (DenseNet)🎮
+### 5 Densely Connected Convolutional Networks (DenseNet)🎮
 
 paper link: [Densely Connected Convolutional Networks](https://arxiv.org/abs/1608.06993)
 
-### 5 InceptionV3🎖
+### 6 InceptionV3🎖
 
 paper link: [Going Deeper with convolutions](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43022.pdf)
 
-### 6 YOLO🏆
+### 7 YOLO🏆
 
 paper link: [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640)
 
-### 7 Fast R-CNN🛰
+### 8 Fast R-CNN🛰
 
 paper link: [Fast R-CNN](https://arxiv.org/pdf/1504.08083.pdf)
 
-### 8 GoogleNet🚄
+### 9 GoogleNet🚄
 
 paper link: [Going Deeper with Convolutions](https://arxiv.org/abs/1409.4842)
 
- ### 9 AlexNet🚲
+ ### 10 AlexNet🚲
  
  paper link: [ImageNet Classification with Deep Convolutional Neural Networks]
  
