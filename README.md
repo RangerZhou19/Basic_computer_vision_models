@@ -4,7 +4,7 @@
 
 Models include: VAE GAN VGG Resnet Densenet inceptionV3 YOLO Fast_R-CNN GoogleNet Transformer
 
-### 🚀Transformer 
+### 1🚀Transformer 
 
 The raw paper: [Attention is All You Need](https://arxiv.org/abs/1706.03762)
 
@@ -15,7 +15,7 @@ Transformer+Detetction: 可变形的Transformers, Deformable DETR: [Deformable D
 
 
 
-### 👓Variational AutoEncoder (VAE)
+### 2👓Variational AutoEncoder (VAE)
 
 Paper link: [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114)
 
