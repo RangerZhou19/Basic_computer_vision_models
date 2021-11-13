@@ -47,7 +47,11 @@ paper link: [Fast R-CNN](https://arxiv.org/pdf/1504.08083.pdf)
 
 paper link: [Going Deeper with Convolutions](https://arxiv.org/abs/1409.4842)
 
-
+ ### 🚲AlexNet
+ 
+ paper link: [ImageNet Classification with Deep Convolutional Neural Networks]
+ 
+ This is the first paper 
 
 
 
