@@ -49,7 +49,7 @@ paper link: [Going Deeper with Convolutions](https://arxiv.org/abs/1409.4842)
 
  ### 10 AlexNet🚲
  
- paper link: [ImageNet Classification with Deep Convolutional Neural Networks]
+ paper link: [ImageNet Classification with Deep Convolutional Neural Networks](https://papers.nips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html)
  
  This is the first paper of convolutional neural network application
 
