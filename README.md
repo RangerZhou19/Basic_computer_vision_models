@@ -31,27 +31,27 @@ paper link: [Deep Residual Learning for Image Recognition](https://arxiv.org/abs
 
 paper link: [Densely Connected Convolutional Networks](https://arxiv.org/abs/1608.06993)
 
-### 🎖InceptionV3
+### 5 InceptionV3🎖
 
 paper link: [Going Deeper with convolutions](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43022.pdf)
 
-### 🏆YOLO
+### 6 YOLO🏆
 
 paper link: [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640)
 
-### 🛰Fast R-CNN
+### 7 Fast R-CNN🛰
 
 paper link: [Fast R-CNN](https://arxiv.org/pdf/1504.08083.pdf)
 
-### 🚄GoogleNet
+### 8 GoogleNet🚄
 
 paper link: [Going Deeper with Convolutions](https://arxiv.org/abs/1409.4842)
 
- ### 🚲AlexNet
+ ### 9 AlexNet🚲
  
  paper link: [ImageNet Classification with Deep Convolutional Neural Networks]
  
- This is the first paper 
+ This is the first paper of convolutional neural network application
 
 
 
