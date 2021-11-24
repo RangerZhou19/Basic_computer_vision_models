@@ -12,8 +12,7 @@ Transformer+Detection: the first paper which applied transformer in computer vis
 
 Transformer+Detetction: 可变形的Transformers, Deformable DETR: [Deformable DETR](https://arxiv.org/pdf/2010.04159.pdf)
 
-
-
+The new paper from Kaiming He: [Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/abs/2111.06377)
 
 ### 2 Variational AutoEncoder (VAE)👓
 
